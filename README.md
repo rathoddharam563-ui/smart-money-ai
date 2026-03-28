@@ -1,16 +1,100 @@
-# React + Vite
+# 💰 SmartMoney AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 AI-powered personal finance mentor for Indian investors
+Make smarter financial decisions with intelligent insights, planning tools, and automation.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌟 What is SmartMoney AI?
 
-## React Compiler
+SmartMoney AI is a premium FinTech web application that helps users:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Track income, expenses, and investments
+* Plan financial independence (FIRE)
+* Get AI-powered financial advice
+* Visualize wealth growth
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔥 Key Features
+
+### 🧠 AI Money Mentor
+
+* Chat-based financial advisor
+* Answers questions about tax, investment, retirement
+
+### 📊 Money Health Score
+
+* Score out of 100
+* Based on savings & investment habits
+
+### 🔥 FIRE Planner
+
+* Calculate retirement corpus
+* Visual wealth growth chart
+
+### 📈 Portfolio Insights
+
+* Asset allocation breakdown
+* AI rebalancing suggestions
+
+### 🚀 Future Simulation
+
+* Compare current vs optimized financial growth
+
+---
+
+## 🛠 Tech Stack
+
+* ⚛️ React + Vite
+* 🎨 Tailwind CSS
+* 📊 Recharts
+* 🤖 AI-ready architecture (Gemini API ready)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/rathoddharam563-ui/smart-money-ai
+cd smartmoney-ai
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the app
+
+```bash
+npm run dev
+```
+
+### 4. Open in browser
+
+```
+http://localhost:5173/
+```
+
+---
+
+## 💡 Problem Solved
+
+95% of Indians lack structured financial planning tools.
+SmartMoney AI democratizes financial intelligence using AI, making wealth management accessible to everyone.
+
+---
+
+## 👨‍💻 Author
+
+**Dharam Rathod**
+
+---
+
+## 📜 License
+
+This project is built for hackathon and educational purposes.
